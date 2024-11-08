@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Ruthvik Tunuguntla
+Ruthvik Tunuguntla
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+ruthvikjs22@iitk.ac.in
 
 Phone
 +1 (213) 352-2795
